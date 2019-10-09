@@ -1,0 +1,7 @@
+C:\Users\andy.chen\source\repos\製作披薩\製作披薩\bin\Debug\製作披薩.exe.config
+C:\Users\andy.chen\source\repos\製作披薩\製作披薩\bin\Debug\製作披薩.exe
+C:\Users\andy.chen\source\repos\製作披薩\製作披薩\bin\Debug\製作披薩.pdb
+C:\Users\andy.chen\source\repos\製作披薩\製作披薩\obj\Debug\製作披薩.csprojAssemblyReference.cache
+C:\Users\andy.chen\source\repos\製作披薩\製作披薩\obj\Debug\製作披薩.csproj.CoreCompileInputs.cache
+C:\Users\andy.chen\source\repos\製作披薩\製作披薩\obj\Debug\製作披薩.exe
+C:\Users\andy.chen\source\repos\製作披薩\製作披薩\obj\Debug\製作披薩.pdb
